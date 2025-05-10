@@ -7,3 +7,6 @@ I have published this project using github pages and it is written simply with
 - CSS
 - Javascript
 
+You can view this project at the github pages link:
+https://fionakp.github.io/days-until/ 
+or by cloning and running the project on your local machine. 
